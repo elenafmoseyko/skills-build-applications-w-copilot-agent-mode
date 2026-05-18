@@ -26,6 +26,17 @@ The project demonstrates how GitHub Copilot Agent Mode can assist with multi-ste
 - Workout suggestions
 - REST API endpoints
 - React navigation and data tables
+
+## Screenshots
+
+### Home Page
+![OctoFit Tracker Home Page](assets/octofit-home.png)
+
+### Activities
+![OctoFit Tracker Activities Page](assets/octofit-activities.png)
+
+### Workouts
+![OctoFit Tracker Leaderboard Page](assets/octofit-workouts.png)
   
 ## Codespaces URLs
 
