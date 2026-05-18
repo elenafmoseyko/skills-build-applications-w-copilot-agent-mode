@@ -26,6 +26,16 @@ The project demonstrates how GitHub Copilot Agent Mode can assist with multi-ste
 - Workout suggestions
 - REST API endpoints
 - React navigation and data tables
+  
+## Codespaces URLs
+
+This project was tested in GitHub Codespaces using forwarded ports:
+
+- React frontend on port `3000`
+- Django REST API backend on port `8000`
+- Example API endpoint: `https://<CODESPACE_NAME>-8000.app.github.dev/api/activities/`
+
+Codespaces URLs are environment-specific and available only while the Codespace is running.
 
 ## Implementation Highlights
 
